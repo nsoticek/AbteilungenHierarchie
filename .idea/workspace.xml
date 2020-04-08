@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c386cd1-16af-4d6c-9115-5eee676dac53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7c386cd1-16af-4d6c-9115-5eee676dac53" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,13 +53,29 @@
       <option name="presentableId" value="Default" />
       <updated>1586335348592</updated>
     </task>
+    <task id="LOCAL-00001" summary="new commit">
+      <created>1586335752945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586335752945</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1079" y="-83" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586335710985">
       <screen x="-1680" y="-399" width="1680" height="1010" />
     </state>
     <state x="-1079" y="-83" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/-1680.-399.1680.1010@-1680.-399.1680.1010" timestamp="1586335710985" />
+    <state x="-1329" y="-296" key="CommitChangelistDialog2" timestamp="1586335752087">
+      <screen x="-1680" y="-399" width="1680" height="1010" />
+    </state>
+    <state x="-1329" y="-296" key="CommitChangelistDialog2/0.0.1536.824/-1680.-399.1680.1010@-1680.-399.1680.1010" timestamp="1586335752087" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1586335480239">
       <screen x="-1680" y="-399" width="1680" height="1010" />
     </state>
